@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Notifier</string>
+    <string name="notifier_content_description">Notification Image</string>
 </resources>
