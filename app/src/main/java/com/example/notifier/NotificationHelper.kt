@@ -16,7 +16,7 @@ import androidx.core.graphics.ColorUtils
 
 object NotificationHelper {
 
-    const val CHANNEL_ID = "notifier_custom_notification_channel"
+    const val CHANNEL_ID = "notifier_app_custom_notification_v5"
 
     fun createNotificationChannel(context: Context) {
         val channel = NotificationChannel(
